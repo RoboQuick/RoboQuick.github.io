@@ -1,0 +1,32 @@
+{
+    "title": "RoboQuick",
+    "name": "Team-RoboQuick",
+    "version": "4.0.12",
+    "description": "",
+    "keywords": [
+       
+    ],
+    "homepage": "https://FoxRio.github.io/",
+    "bugs": {
+        "url": "https://FoxRio.github.io/",
+        "email": "roboquickvpvg@gmail.com"
+    },
+    "license": "MIT",
+    "author": "RoboQuick",
+    "contributors": [
+        ""
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FoxRio/FoxRio.github.io.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.6.0",
+        "font-awesome": "4.7.0",
+        "jquery": "3.6.0",
+        "startbootstrap-clean-blog": "5.1.0"
+    },
+    "devDependencies": {
+        "browser-sync": "2.26.14"
+    }
+}
